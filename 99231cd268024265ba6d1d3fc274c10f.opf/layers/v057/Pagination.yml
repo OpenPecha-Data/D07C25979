@@ -1,0 +1,250 @@
+id: a6871534a68941ae9b05f6d5dee8a1c0
+annotation_type: Pagination
+revision: '00001'
+annotations:
+  a51a7dc16d324cd6863fed8b5a44b90b:
+    imgnum: 298
+    reference: ''
+    span:
+      start: 0
+      end: 653
+    note_ref: e27db30cd7a4464bb41d0a2c71bfac98
+  90e1d3b63d2f4db3a8dde0b9367a0371:
+    imgnum: 299
+    reference: ''
+    span:
+      start: 656
+      end: 1911
+    note_ref: e27db30cd7a4464bb41d0a2c71bfac98
+  9a4c1ef333424c18956606662abceef7:
+    imgnum: 300
+    reference: ''
+    span:
+      start: 1914
+      end: 3215
+    note_ref: e27db30cd7a4464bb41d0a2c71bfac98
+  85b27460f74a432eb1aa69f9c84e172f:
+    imgnum: 301
+    reference: ''
+    span:
+      start: 3218
+      end: 4542
+    note_ref: e27db30cd7a4464bb41d0a2c71bfac98
+  a8a4d9063db347fdb685903ef383df27:
+    imgnum: 302
+    reference: ''
+    span:
+      start: 4545
+      end: 5873
+    note_ref: e27db30cd7a4464bb41d0a2c71bfac98
+  5ef52c33f4584c09acac55fe14750b9a:
+    imgnum: 303
+    reference: ''
+    span:
+      start: 5876
+      end: 7189
+    note_ref: 4f9d7f2d9df94348991656a78ab396f1
+  4bff6bbf8528460a9aa3059342ef0c52:
+    imgnum: 304
+    reference: ''
+    span:
+      start: 7192
+      end: 8506
+    note_ref: 4f9d7f2d9df94348991656a78ab396f1
+  eb08a3c7819b41fbb0369b76817f627d:
+    imgnum: 305
+    reference: ''
+    span:
+      start: 8509
+      end: 9857
+    note_ref: 4f9d7f2d9df94348991656a78ab396f1
+  cf1529b3dc104bc1aaeedf8839f2a87c:
+    imgnum: 306
+    reference: ''
+    span:
+      start: 9860
+      end: 11162
+    note_ref: 4f9d7f2d9df94348991656a78ab396f1
+  02b4fbf9d3b0437ca141b69b919f7a16:
+    imgnum: 307
+    reference: ''
+    span:
+      start: 11165
+      end: 12532
+    note_ref: 4f9d7f2d9df94348991656a78ab396f1
+  05d211efaca542e89b8e7475519bd23e:
+    imgnum: 308
+    reference: ''
+    span:
+      start: 12535
+      end: 13873
+    note_ref: 4f9d7f2d9df94348991656a78ab396f1
+  150e620c4bae4637ba96966b1533469b:
+    imgnum: 309
+    reference: ''
+    span:
+      start: 13876
+      end: 15173
+    note_ref: 4f9d7f2d9df94348991656a78ab396f1
+  54ed9a07e56a4855bbf87b05d664cbda:
+    imgnum: 310
+    reference: ''
+    span:
+      start: 15176
+      end: 16469
+    note_ref: 4f9d7f2d9df94348991656a78ab396f1
+  0395aeb2f12c472895b1f0a192814208:
+    imgnum: 311
+    reference: ''
+    span:
+      start: 16472
+      end: 17813
+    note_ref: 4f9d7f2d9df94348991656a78ab396f1
+  a7784a404ca34c488900cbf716eed686:
+    imgnum: 312
+    reference: ''
+    span:
+      start: 17816
+      end: 19092
+    note_ref: 4f9d7f2d9df94348991656a78ab396f1
+  f1295858f77e453d9015e4bca1f719f5:
+    imgnum: 313
+    reference: ''
+    span:
+      start: 19095
+      end: 20400
+    note_ref: 3616983e155e4a5eaca7fca032e236b5
+  5ddf6ed18c2e4eabb22b0dcaa57cfd42:
+    imgnum: 314
+    reference: ''
+    span:
+      start: 20403
+      end: 21673
+    note_ref: 3616983e155e4a5eaca7fca032e236b5
+  23e4c596370e48ff9f6c8d4244180e92:
+    imgnum: 315
+    reference: ''
+    span:
+      start: 21676
+      end: 22996
+    note_ref: 3616983e155e4a5eaca7fca032e236b5
+  81f70b7f4bcd403188c1dcd003dcda16:
+    imgnum: 316
+    reference: ''
+    span:
+      start: 22999
+      end: 24334
+    note_ref: 3616983e155e4a5eaca7fca032e236b5
+  599ae19de0e544d7966aed5eb77eff8b:
+    imgnum: 317
+    reference: ''
+    span:
+      start: 24337
+      end: 25659
+    note_ref: 3616983e155e4a5eaca7fca032e236b5
+  5cd6c1964f99422a9afc2177ac05aa5b:
+    imgnum: 318
+    reference: ''
+    span:
+      start: 25662
+      end: 26986
+    note_ref: 3616983e155e4a5eaca7fca032e236b5
+  a954c6703d114ec688a812958a02869d:
+    imgnum: 319
+    reference: ''
+    span:
+      start: 26989
+      end: 28323
+    note_ref: 3616983e155e4a5eaca7fca032e236b5
+  052d30928942438f9b860565dcb8323d:
+    imgnum: 320
+    reference: ''
+    span:
+      start: 28326
+      end: 29666
+    note_ref: 3616983e155e4a5eaca7fca032e236b5
+  369b18a228ed44caaf9d0dcf75ab11bb:
+    imgnum: 321
+    reference: ''
+    span:
+      start: 29669
+      end: 30988
+    note_ref: 3616983e155e4a5eaca7fca032e236b5
+  16ea8db899914d2c885076558d06c0ca:
+    imgnum: 322
+    reference: ''
+    span:
+      start: 30991
+      end: 32300
+    note_ref: 3616983e155e4a5eaca7fca032e236b5
+  2cc2272305bc4b7287afba25aad664f5:
+    imgnum: 323
+    reference: ''
+    span:
+      start: 32303
+      end: 33602
+    note_ref: 0de3dd9a3ae248d4b649f1e83b26da7b
+  e27db30cd7a4464bb41d0a2c71bfac98:
+    imgnum: 324
+    reference: ''
+    span:
+      start: 33605
+      end: 34951
+    note_ref: 0de3dd9a3ae248d4b649f1e83b26da7b
+  4f9d7f2d9df94348991656a78ab396f1:
+    imgnum: 325
+    reference: ''
+    span:
+      start: 34954
+      end: 37009
+  3616983e155e4a5eaca7fca032e236b5:
+    imgnum: 326
+    reference: ''
+    span:
+      start: 37012
+      end: 39002
+  0de3dd9a3ae248d4b649f1e83b26da7b:
+    imgnum: 327
+    reference: ''
+    span:
+      start: 39005
+      end: 39297
+  235d30ac73e24a369b12a5d2851ec10b:
+    imgnum: 328
+    reference: ''
+    span:
+      start: 39300
+      end: 39300
+    note_ref: ''
+local_ids:
+  a51a7dc16d324cd6863fed8b5a44b90b: 200000
+  90e1d3b63d2f4db3a8dde0b9367a0371: 200001
+  9a4c1ef333424c18956606662abceef7: 200002
+  85b27460f74a432eb1aa69f9c84e172f: 200003
+  a8a4d9063db347fdb685903ef383df27: 200004
+  5ef52c33f4584c09acac55fe14750b9a: 200005
+  4bff6bbf8528460a9aa3059342ef0c52: 200006
+  eb08a3c7819b41fbb0369b76817f627d: 200007
+  cf1529b3dc104bc1aaeedf8839f2a87c: 200008
+  02b4fbf9d3b0437ca141b69b919f7a16: 200009
+  05d211efaca542e89b8e7475519bd23e: 200010
+  150e620c4bae4637ba96966b1533469b: 200011
+  54ed9a07e56a4855bbf87b05d664cbda: 200012
+  0395aeb2f12c472895b1f0a192814208: 200013
+  a7784a404ca34c488900cbf716eed686: 200014
+  f1295858f77e453d9015e4bca1f719f5: 200015
+  5ddf6ed18c2e4eabb22b0dcaa57cfd42: 200016
+  23e4c596370e48ff9f6c8d4244180e92: 200017
+  81f70b7f4bcd403188c1dcd003dcda16: 200018
+  599ae19de0e544d7966aed5eb77eff8b: 200019
+  5cd6c1964f99422a9afc2177ac05aa5b: 200020
+  a954c6703d114ec688a812958a02869d: 200021
+  052d30928942438f9b860565dcb8323d: 200022
+  369b18a228ed44caaf9d0dcf75ab11bb: 200023
+  16ea8db899914d2c885076558d06c0ca: 200024
+  2cc2272305bc4b7287afba25aad664f5: 200025
+  e27db30cd7a4464bb41d0a2c71bfac98: 200026
+  4f9d7f2d9df94348991656a78ab396f1: 200027
+  3616983e155e4a5eaca7fca032e236b5: 200028
+  0de3dd9a3ae248d4b649f1e83b26da7b: 200029
+  235d30ac73e24a369b12a5d2851ec10b: 200030
